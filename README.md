@@ -38,3 +38,9 @@ for title we are scrapping from the tag 'title', for summary we can see almost a
 
 --> In the main function, we are passing through the URL and running loop with the list of URL's to insert/update scrapped documents in our webpage.
 
+## Running code:
+You can run the code in any IDE, just refresh the kernel before running it again. I have developed this in spyder and tested in jupyter as well. 
+
+## output:
+We have 411 webpages inside the website.
+The script approximately takes 360-370 seconds to run and produce output.
